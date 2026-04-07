@@ -77,3 +77,9 @@ So each team gets its own workspace (virtual environment):
 * IT workspace
 This keeps everything clear, organized, and efficient.
 
+## **Selenium 3 Architecture Image**
+<img width="764" height="433" alt="Selenium_3_Architecture" src="https://github.com/user-attachments/assets/b296f8f2-4631-4f5c-95e4-d3a6dc431090" />
+
+## **Selenium 4 Architecture Image**
+![Selenium 4 Architecture](https://github.com/user-attachments/assets/4b8af4e3-e76e-42ee-a7b8-ac6b57b8aa2f)
+
